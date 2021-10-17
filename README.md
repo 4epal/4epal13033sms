@@ -3,8 +3,10 @@
 
 Παρουσίαση:Εφαρμογή για αποστολή κωδικών sms για μετακινήσεις ψφ.pptx
 
-Βίντεο : https://youtu.be/igCKZrqw36M
-         https://youtu.be/WAHg0bgowLs
+Βίντεο παρουσίασης : 
+https://youtu.be/igCKZrqw36M
+        
+https://youtu.be/WAHg0bgowLs
 
 Σχέδιο εφαρμογής : sms.aia
 Εφαρμογή για εγκατάσταση : sms.apk
