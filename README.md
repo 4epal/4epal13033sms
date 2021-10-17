@@ -4,6 +4,7 @@
 Παρουσίαση:Εφαρμογή για αποστολή κωδικών sms για μετακινήσεις ψφ.pptx
 
 Βίντεο παρουσίασης : 
+
 https://youtu.be/igCKZrqw36M
         
 https://youtu.be/WAHg0bgowLs
@@ -11,6 +12,7 @@ https://youtu.be/WAHg0bgowLs
 Τρέχοντες κωδικοί : Κωδικοι για sms στο 13033.xlsx
 
 Σχέδιο εφαρμογής : sms.aia
+
 Εφαρμογή για εγκατάσταση : sms.apk
 
 4ο ΕΠΑΛ ΠΑΤΡΑΣ
